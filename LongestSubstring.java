@@ -1,5 +1,5 @@
 //Longest substring without repeating characters
-
+//Optimal solution O(n)
 public static int longestSubString(String s) {
 		int maxLength = 0;
 		
